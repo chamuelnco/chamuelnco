@@ -1,0 +1,272 @@
+[
+  {
+    "file": "assets/settings/heritage/heritage-lifestyle-hero.webp",
+    "slug": "heritage-lifestyle-hero",
+    "shape": "lifestyle",
+    "alt": "Classic solitaire engagement ring on soft ivory background with Chamuel & Co. logo",
+    "size": 61202
+  },
+  {
+    "file": "assets/settings/heritage/heritage-asscher-side.webp",
+    "slug": "heritage-asscher-side",
+    "shape": "asscher",
+    "alt": "Asscher cut Heritage solitaire side view in white gold",
+    "size": 6258
+  },
+  {
+    "file": "assets/settings/heritage/heritage-asscher-back.webp",
+    "slug": "heritage-asscher-back",
+    "shape": "asscher",
+    "alt": "Asscher cut Heritage solitaire back angle in white gold",
+    "size": 7822
+  },
+  {
+    "file": "assets/settings/heritage/heritage-cushion-side.webp",
+    "slug": "heritage-cushion-side",
+    "shape": "cushion",
+    "alt": "Cushion cut Heritage solitaire side view in white gold",
+    "size": 7186
+  },
+  {
+    "file": "assets/settings/heritage/heritage-cushion-back.webp",
+    "slug": "heritage-cushion-back",
+    "shape": "cushion",
+    "alt": "Cushion cut Heritage solitaire back angle in white gold",
+    "size": 7196
+  },
+  {
+    "file": "assets/settings/heritage/heritage-marquise-back.webp",
+    "slug": "heritage-marquise-back",
+    "shape": "marquise",
+    "alt": "Marquise cut Heritage solitaire back view in white gold",
+    "size": 7108
+  },
+  {
+    "file": "assets/settings/heritage/heritage-marquise-side.webp",
+    "slug": "heritage-marquise-side",
+    "shape": "marquise",
+    "alt": "Marquise cut Heritage solitaire side view in white gold",
+    "size": 6984
+  },
+  {
+    "file": "assets/settings/heritage/heritage-pear-front.webp",
+    "slug": "heritage-pear-front",
+    "shape": "pear",
+    "alt": "Pear shape Heritage solitaire front view in white gold",
+    "size": 9184
+  },
+  {
+    "file": "assets/settings/heritage/heritage-pear-side.webp",
+    "slug": "heritage-pear-side",
+    "shape": "pear",
+    "alt": "Pear shape Heritage solitaire side view in white gold",
+    "size": 5320
+  },
+  {
+    "file": "assets/settings/heritage/heritage-round-front.webp",
+    "slug": "heritage-round-front",
+    "shape": "round",
+    "alt": "Round brilliant Heritage solitaire front view in white gold",
+    "size": 24246
+  },
+  {
+    "file": "assets/settings/heritage/heritage-emerald-front.webp",
+    "slug": "heritage-emerald-front",
+    "shape": "emerald",
+    "alt": "Emerald cut Heritage solitaire front view in white gold",
+    "size": 21528
+  },
+  {
+    "file": "assets/settings/heritage/heritage-cushion-front.webp",
+    "slug": "heritage-cushion-front",
+    "shape": "cushion",
+    "alt": "Cushion cut Heritage solitaire front view in white gold",
+    "size": 17530
+  },
+  {
+    "file": "assets/settings/heritage/heritage-asscher-front.webp",
+    "slug": "heritage-asscher-front",
+    "shape": "asscher",
+    "alt": "Asscher cut Heritage solitaire front view in white gold",
+    "size": 22154
+  },
+  {
+    "file": "assets/settings/heritage/heritage-heart-side.webp",
+    "slug": "heritage-heart-side",
+    "shape": "heart",
+    "alt": "Heart shape Heritage solitaire side view in white gold",
+    "size": 7280
+  },
+  {
+    "file": "assets/settings/heritage/heritage-heart-back.webp",
+    "slug": "heritage-heart-back",
+    "shape": "heart",
+    "alt": "Heart shape Heritage solitaire back angle in white gold",
+    "size": 6518
+  },
+  {
+    "file": "assets/settings/heritage/heritage-heart-front.webp",
+    "slug": "heritage-heart-front",
+    "shape": "heart",
+    "alt": "Heart shape Heritage solitaire front view in white gold",
+    "size": 29242
+  },
+  {
+    "file": "assets/settings/heritage/heritage-round-profile.webp",
+    "slug": "heritage-round-profile",
+    "shape": "round",
+    "alt": "Round brilliant Heritage solitaire profile view in white gold",
+    "size": 9180
+  },
+  {
+    "file": "assets/settings/heritage/heritage-marquise-front.webp",
+    "slug": "heritage-marquise-front",
+    "shape": "marquise",
+    "alt": "Marquise cut Heritage solitaire front view in white gold",
+    "size": 26592
+  },
+  {
+    "file": "assets/settings/heritage/heritage-oval-side.webp",
+    "slug": "heritage-oval-side",
+    "shape": "oval",
+    "alt": "Oval Heritage solitaire side view in white gold",
+    "size": 8074
+  },
+  {
+    "file": "assets/settings/heritage/heritage-pear-front-alt.webp",
+    "slug": "heritage-pear-front-alt",
+    "shape": "pear",
+    "alt": "Pear shape Heritage solitaire front view closeup in white gold",
+    "size": 22112
+  },
+  {
+    "file": "assets/settings/heritage/heritage-oval-front-2.webp",
+    "slug": "heritage-oval-front-2",
+    "shape": "oval",
+    "angle": "front",
+    "alt": "Oval Heritage solitaire front view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 25866
+  },
+  {
+    "file": "assets/settings/heritage/heritage-radiant-back.webp",
+    "slug": "heritage-radiant-back",
+    "shape": "radiant",
+    "angle": "back",
+    "alt": "Radiant cut Heritage solitaire back angle in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 9532
+  },
+  {
+    "file": "assets/settings/heritage/heritage-emerald-side.webp",
+    "slug": "heritage-emerald-side",
+    "shape": "emerald",
+    "angle": "side",
+    "alt": "Emerald cut Heritage solitaire side view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 5628
+  },
+  {
+    "file": "assets/settings/heritage/heritage-emerald-back.webp",
+    "slug": "heritage-emerald-back",
+    "shape": "emerald",
+    "angle": "back",
+    "alt": "Emerald cut Heritage solitaire back angle in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 6856
+  },
+  {
+    "file": "assets/settings/heritage/heritage-radiant-side.webp",
+    "slug": "heritage-radiant-side",
+    "shape": "radiant",
+    "angle": "side",
+    "alt": "Radiant cut Heritage solitaire side view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 8578
+  },
+  {
+    "file": "assets/settings/heritage/heritage-princess-front.webp",
+    "slug": "heritage-princess-front",
+    "shape": "princess",
+    "angle": "front",
+    "alt": "Princess cut Heritage solitaire front view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 30366
+  },
+  {
+    "file": "assets/settings/heritage/heritage-radiant-front.webp",
+    "slug": "heritage-radiant-front",
+    "shape": "radiant",
+    "angle": "front",
+    "alt": "Radiant cut Heritage solitaire front view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 29568
+  },
+  {
+    "file": "assets/settings/heritage/heritage-oval-front.webp",
+    "slug": "heritage-oval-front",
+    "shape": "oval",
+    "angle": "front",
+    "alt": "Oval Heritage solitaire front view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 8270
+  },
+  {
+    "file": "assets/settings/heritage/heritage-princess-back.webp",
+    "slug": "heritage-princess-back",
+    "shape": "princess",
+    "angle": "back",
+    "alt": "Princess cut Heritage solitaire back angle in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 8582
+  },
+  {
+    "file": "assets/settings/heritage/heritage-princess-side.webp",
+    "slug": "heritage-princess-side",
+    "shape": "princess",
+    "angle": "side",
+    "alt": "Princess cut Heritage solitaire side view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 6572
+  },
+  {
+    "file": "assets/settings/heritage/heritage-round-side.webp",
+    "slug": "heritage-round-side",
+    "shape": "round",
+    "angle": "side",
+    "alt": "Round brilliant Heritage solitaire side view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 8306
+  },
+  {
+    "file": "assets/settings/heritage/heritage-oval-side-2.webp",
+    "slug": "heritage-oval-side-2",
+    "shape": "oval",
+    "angle": "side",
+    "alt": "Oval Heritage solitaire side view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 7630
+  },
+  {
+    "file": "assets/settings/heritage/heritage-round-profile-2.webp",
+    "slug": "heritage-round-profile-2",
+    "shape": "round",
+    "angle": "profile",
+    "alt": "Round brilliant Heritage solitaire profile view in white gold",
+    "setting_code": "CC-H001",
+    "series": "Heritage Solitaire Series",
+    "size": 8466
+  }
+]
